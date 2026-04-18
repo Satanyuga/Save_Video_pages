@@ -1,0 +1,2 @@
+import"./DsnmJJEf.js";import"./69_IOA4Y.js";import{c as p,f as i,b as l}from"./B62klROV.js";import{I as c,s as d}from"./De78Ty70.js";import{l as m,s as $}from"./BUr6unyB.js";function y(s,t){const e=m(t,["children","$$slots","$$events","$$legacy"]),r=[["path",{d:"M18 6l-12 12"}],["path",{d:"M6 6l12 12"}]];c(s,$({type:"outline",name:"x"},()=>e,{get iconNode(){return r},children:(a,f)=>{var o=p(),n=i(o);d(n,t,"default",{}),l(a,o)},$$slots:{default:!0}}))}export{y as X};
+//# sourceMappingURL=D5uIeXVT.js.map

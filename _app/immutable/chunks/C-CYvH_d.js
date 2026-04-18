@@ -1,0 +1,2 @@
+import{X as o}from"./B62klROV.js";import{l as s}from"./C6QiP7u4.js";import{d as r,s as c}from"./B1U_JWpR.js";import{INTERNAL_locale as n,defaultLocale as p}from"./qUwwVM6i.js";const l=e=>Object.keys(s).includes(e),i=o(c,e=>{let a=p;return e.appearance.autoLanguage?l(r.prefers.language)&&(a=r.prefers.language):l(e.appearance.language)&&(a=e.appearance.language),n.set(a),a});export{i as default};
+//# sourceMappingURL=C-CYvH_d.js.map

@@ -1,0 +1,1 @@
+export const env={"WEB_DEFAULT_API":"https://api.cobalt.tools"}

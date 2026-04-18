@@ -1,0 +1,2 @@
+import"./DsnmJJEf.js";import"./69_IOA4Y.js";import{c as o,f as i,b as s,a0 as m}from"./B62klROV.js";import{s as l}from"./CZIMXLh1.js";import{C as g}from"./BQzkfRKZ.js";function v(r,t){g(r,{get version(){return t.version},get title(){return t.title},get date(){return t.date},get banner(){return t.banner},children:(n,d)=>{var e=o(),a=i(e);l(a,()=>t.children??m),s(n,e)},$$slots:{default:!0}})}export{v as C};
+//# sourceMappingURL=DqIch5ks.js.map

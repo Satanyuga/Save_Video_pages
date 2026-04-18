@@ -1,0 +1,2 @@
+import"./DsnmJJEf.js";import"./69_IOA4Y.js";import{p as i,j as m,b as p,a as h,_ as u,$ as c,d as _}from"./B62klROV.js";import{s as d,a as t}from"./De78Ty70.js";import{i as b}from"./DhZfqzxk.js";import{p as o}from"./BUr6unyB.js";var v=_("<a><!></a>");function y(s,e){i(e,!1);let a=o(e,"href",8);o(e,"rel",8,"")();const[f,l]=(()=>{try{return new URL(a()),["_blank","noopener noreferrer"]}catch{}return[]})();b();var r=v(),n=u(r);d(n,e,"default",{}),c(r),m(()=>{t(r,"rel",l),t(r,"target",f),t(r,"href",a())}),p(s,r),h()}export{y as O};
+//# sourceMappingURL=UwbdFAEa.js.map
